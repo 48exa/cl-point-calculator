@@ -3,7 +3,7 @@
 The Stats Viewer is displaying the *wrong* amount of List Points. This is because of an error in the code of the website that is very difficult to resolve. 
 
 **If you want to check how many List Points you really have**
-Then go to the [releases](https://releases.com) and download *points.exe* 
+Then go to the [releases](https://github.com/48exa/cl-point-calculator/releases/tag/Release) and download *points.exe* 
 
 ---
 When you run the file you *might* be shows this screen 
