@@ -1,5 +1,5 @@
 # Challenge List List Points Calculator
-**The website of the Challenge List is currently bugged.**
+**[The website of the Challenge List](https://challengelist.gd) is currently bugged.**
 The Stats Viewer is displaying the *wrong* amount of List Points. This is because of an error in the code of the website that is very difficult to resolve. 
 
 **If you want to check how many List Points you really have**
@@ -18,4 +18,4 @@ Just click on *more info* and then click on *run away*
 ![Fix for the Windows is trying to protect your PC warning pop-up](screenshots/windows_pupup_fix.png)
 
 ---
-If you are still afraid of malware you can also clone this repository and build the application yourself, you do need to have Rust (the programming language, not the game) installed and set up.
+If you are still afraid of malware you can also clone this repository and build the application yourself, you do need to have [Rust](https://www.rust-lang.org/tools/install) installed and set up.
